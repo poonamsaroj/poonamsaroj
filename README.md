@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?size=626&ext=jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarojpoonam&label=Profile%20views&color=0e75b6&style=flat" alt="sarojpoonam" /> </p>
 
-- 🔭 I’m currently working on **React.js, Node.js, MongoDB**
+- 🔭 I’m currently working on **React.js, Node.js, Angular, MongoDB**
 
 - 💬 Ask me about **MERN , MEAN**
 
